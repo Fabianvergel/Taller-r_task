@@ -1,7 +1,6 @@
 # Elaborado por: Fabian Vergel Ojeda
-# Colaboradores:
-# Fecha de elaboracion: 
-# Ultima modificacion: 
+# Taller B
+# # R version 4.1.1 (2021-08-10)
 
 
 # 1. intial configuration
